@@ -1,5 +1,6 @@
 name,gender,wikidata,type
 "Aagje Dekenstraat",F,Q255601,way
+"Anna Blamanstraat",F,Q1917464,way
 "Betje Wolffstraat",F,Q183007,way
 Bosboom-Toussaintstraat,F,Q446879,way
 Emmabrug,F,Q57664,way
@@ -8,9 +9,11 @@ Emmastraat,F,Q57664,way
 "Hélène Swarthlaan",F,Q4981610,way
 "Henriëtte Roland Holststraat",F,Q441439,way
 "Ina Boudierplantsoen",F,Q2167972,way
+"Josine Reulingstraat",F,Q63485725,way
 Julianaweg,F,Q154946,way
 "Madame Curiestraat",F,Q7186,way
 "Maria Dermoutlaan",F,Q2880471,way
+"Natalie Barneykade",F,Q34782,way
 "Top Naefflaan",F,Q5260550,way
 Vasalislaan,F,Q242016,way
 "Aart van der Leeuwlaan",M,Q524770,way
@@ -70,7 +73,9 @@ Gorterlaan,M,Q325191,way
 "H.N. Werkmanbrug",M,Q559440,way
 "H.W. Mesdagplein",M,Q474238,way
 "H.W. Mesdagstraat",M,Q474238,way
+"Han Diekmannkade",M,Q2045571,way
 Händellaan,M,Q7302,way
+"Hans Lodeizenstraat",M,Q1928620,way
 Haydnlaan,M,Q7349,way
 "Hendrik Johan Melgersstraat",M,Q26977573,way
 "Hendrik de Vriesstraat",M,Q1823314,way
@@ -80,8 +85,12 @@ Hippocrateslaan,M,Q5264,way
 Hoorniklaan,M,Q2488509,way
 "Hora Siccamasingel",M,Q3173248,way
 "J.H. Egenbergerstraat",M,Q942302,way
+"Jacob Schorerstraat",M,Q2186401,way
+"Jacob van Hattumstraat",M,Q2227171,way
 "Jacob van Ruysdaelstraat",M,Q213612,way
 "Jacques Perkstraat",M,Q1622474,way
+"Jakob Israël de Haanstraat",M,Q733640,way
+"James Baldwinstraat",M,Q273210,way
 "Jan Lutmastraat",M,Q2778143,way
 "Jan Steenstraat",M,Q205863,way
 "Jan Wiegersweg",M,Q2675322,way
@@ -91,6 +100,7 @@ Hoorniklaan,M,Q2488509,way
 "Jan van der Zeestraat",M,Q2279047,way
 Jennerstraat,M,Q40852,way
 "Job Hansenstraat",M,Q2709236,way
+"Johan Ellenbergerstraat",M,Q106010605,way
 "Johannes Vermeerstraat",M,Q41264,way
 "Jozef Israëlsplein",M,Q528460,way
 "Jozef Israëlsstraat",M,Q528460,way
@@ -110,8 +120,10 @@ Multatulistraat,M,Q154211,way
 Nesciopad,M,Q2559747,way
 "Nico Rostlaan",M,Q1986010,way
 "Nicolaas Beetsstraat",M,Q537100,way
+"Niek Engelschmanstraat",M,Q2170705,way
 Nijhofflaan,M,Q1905756,way
 Nolenslaan,M,Q944997,way
+"Oscar Wildestraat",M,Q30875,way
 "Otto Eerelmanstraat",M,Q504222,way
 "P.C. Hooftlaan",M,Q10914484,way
 Paracelsusstraat,M,Q83428,way
