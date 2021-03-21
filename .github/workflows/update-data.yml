@@ -1,9 +1,9 @@
-name: Update Groningen data
+name: Update data
 
 on:
-  # Run every Monday at 1:00 UTC
+  # Run every Thursday at 1:00 UTC
   schedule:
-    - cron: "0 1 * * 1"
+    - cron: "0 1 * * 4"
   push:
     paths:
       - ".github/workflows/update-data.yml"
@@ -21,12 +21,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          repository: 'openknowledgebe/equalstreetnames'
+          repository: EqualStreetNames/equalstreetnames
           persist-credentials: false
-      - uses: actions/checkout@v2
-        with:
-          submodules: false
-          path: 'cities/groningen'
+          submodules: true
       - name: Use PHP 7.4
         uses: shivammathur/setup-php@v2
         with:
@@ -36,19 +33,25 @@ jobs:
         run: composer validate
       - name: Install dependencies
         run: composer install --prefer-dist --no-progress --no-suggest
-      
-      - name: Run update
-        run: composer run update-data -- --city=groningen
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: Groningen
-          path: cities/groningen/data/*
+      - name: Checkout submodule to master
+        working-directory: cities/netherlands/groningen
+        run: git checkout -q master
+      - name: Update sub-modules
+        run: git submodule update --remote --merge cities/netherlands/groningen
+
+      - name: Run update
+        run: composer run update-data -- --city=netherlands/groningen
+
+      # - name: Upload artifact
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: Groningen
+      #     path: cities/netherlands/groningen/data/*
 
       - name: Commit sub-module
         if: ${{ github.event_name != 'pull_request' }}
-        working-directory: cities/groningen
+        working-directory: cities/netherlands/groningen
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
@@ -59,5 +62,20 @@ jobs:
         if: ${{ github.event_name != 'pull_request' }}
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-          directory: cities/groningen
-          repository: robinlinde/equalstreetnames-groningen
+          directory: cities/netherlands/groningen
+          repository: EqualStreetNames/equalstreetnames-groningen
+
+      - name: Commit repository
+        if: ${{ github.event_name != 'pull_request' }}
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull
+          git add cities/netherlands/groningen
+          git commit -m "🗃 Update Groningen sub-module"
+      - name: Push to repository
+        uses: ad-m/github-push-action@master
+        if: ${{ github.event_name != 'pull_request' }}
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN }}
+          repository: EqualStreetNames/equalstreetnames
