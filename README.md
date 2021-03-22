@@ -5,7 +5,7 @@ This repo contains the submodule containing the data for Groningen in the EqualS
 ## Data updates
 
 The data is updated every thursday by Github Actions:
-[[![Update data](https://github.com/EqualStreetNames/equalstreetnames-groningen/actions/workflows/update-data.yml/badge.svg)](https://github.com/EqualStreetNames/equalstreetnames-groningen/actions/workflows/update-data.yml)
+[![Update data](https://github.com/EqualStreetNames/equalstreetnames-groningen/actions/workflows/update-data.yml/badge.svg)](https://github.com/EqualStreetNames/equalstreetnames-groningen/actions/workflows/update-data.yml)
 
 Afterwards the new version of the site is pushed to the `gh-pages` branch:
 [![Deploy](https://github.com/EqualStreetNames/equalstreetnames-groningen/actions/workflows/deploy.yml/badge.svg)](https://github.com/EqualStreetNames/equalstreetnames-groningen/actions/workflows/deploy.yml)
