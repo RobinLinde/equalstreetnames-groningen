@@ -1,5 +1,5 @@
 
-name: Deploy Groningen
+name: Deploy
 
 on: 
   push:
@@ -8,7 +8,7 @@ on:
       - ".github/workflows/deploy.yml"
       - "data/*"
   workflow_run:
-    workflows: ["Update Groningen data"]
+    workflows: ["Update data"]
     branches: [master]
     types: 
       - completed
@@ -18,25 +18,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout EqualStreetNames
+        uses: actions/checkout@v2
         with:
-          repository: 'openknowledgebe/equalstreetnames'
-          persist-credentials: false
-      - uses: actions/checkout@v2
-        with:
-          path: 'cities/groningen'
+          repository: 'EqualStreetNames/equalstreetnames'
+          persist-credentials: true
+      
+      - name: Checkout submodule
+        run: git submodule update --init cities/netherlands/groningen
 
       - name: Install and Build
         run: |
           npm install
-          npm run build:groningen
+          npm run build:netherlands:groningen
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: 'dist/groningen' # The folder the action should deploy.
+          FOLDER: 'dist/netherlands/groningen' # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
