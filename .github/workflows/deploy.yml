@@ -1,7 +1,7 @@
 
 name: Deploy
 
-on: 
+on:
   push:
     branches: [master]
     paths:
@@ -10,7 +10,7 @@ on:
   workflow_run:
     workflows: ["Update data"]
     branches: [master]
-    types: 
+    types:
       - completed
 
 jobs:
@@ -23,11 +23,12 @@ jobs:
         with:
           repository: 'EqualStreetNames/equalstreetnames'
           persist-credentials: true
-      
+
       - name: Checkout submodule
         run: git submodule update --init cities/netherlands/groningen
 
       - name: Install and Build
+        working-directory: website
         run: |
           npm install
           npm run build:netherlands:groningen
