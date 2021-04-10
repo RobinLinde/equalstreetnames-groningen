@@ -27,11 +27,12 @@ jobs:
       - name: Checkout submodule
         run: git submodule update --init cities/netherlands/groningen
 
-      - name: Install and Build
-        working-directory: website
-        run: |
-          npm install
-          npm run build:netherlands:groningen
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 15.x
+          check-latest: true
+      - run: npm install
+      - run: npm run build:netherlands:groningen
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
 
@@ -39,5 +40,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: 'dist/netherlands/groningen' # The folder the action should deploy.
+          FOLDER: 'website/dist/netherlands/groningen' # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
