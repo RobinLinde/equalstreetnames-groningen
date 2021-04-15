@@ -1,4 +1,3 @@
-
 name: Deploy
 
 on:
@@ -13,10 +12,14 @@ on:
     types:
       - completed
 
+defaults:
+  run:
+    working-directory: website
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout EqualStreetNames
         uses: actions/checkout@v2
