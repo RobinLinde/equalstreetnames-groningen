@@ -1,30 +1,53 @@
 name,source,gender,wikidata,type
+"A. Jacobsstraat",wikidata,F,Q463478,way
 "Aagje Dekenstraat",wikidata,F,Q255601,way
 Adelheidstraat,wikidata,F,Q57664,way
 "Albertine Agnesplein",wikidata,F,Q271950,way
 "Albertine Agnesstraat",wikidata,F,Q271950,way
 "Amalia van Solmsstraat",wikidata,F,Q62511,way
 "Anna Blamanstraat",wikidata,F,Q1917464,way
+"B.S.F. von Suttnerstraat",wikidata,F,Q18456,way
+Beatrixstraat,wikidata,F,Q29574,way
 "Betje Wolffstraat",wikidata,F,Q183007,way
 Bosboom-Toussaintstraat,wikidata,F,Q446879,way
+"C. Pothuisstraat",wikidata,F,Q2004957,way
+"C.G. Wichmannstraat",wikidata,F,Q1095182,way
+Christinastraat,wikidata,F,Q435324,way
+"E.G. Balchstraat",wikidata,F,Q215139,way
 Emmabrug,wikidata,F,Q57664,way
 Emmaplein,wikidata,F,Q57664,way
 Emmastraat,wikidata,F,Q57664,way
+Emmaviaduct,wikidata,F,Q57664,way
+"G. Meirstraat",wikidata,F,Q42992,way
 "Hélène Swarthlaan",wikidata,F,Q4981610,way
 "Henriëtte Roland Holststraat",wikidata,F,Q441439,way
 "Ina Boudierplantsoen",wikidata,F,Q2167972,way
+Irenestraat,wikidata,F,Q263623,way
+"J. Addamspad",wikidata,F,Q180989,way
+"J.A. de Bree-Meijerstr",wikidata,F,Q106612325,way
+"Joke Smitpad",wikidata,F,Q2492882,way
 "Josine Reulingstraat",wikidata,F,Q63485725,way
+"Juliana van Stolbergstraat",wikidata,F,Q202566,way
 Julianaplein,wikidata,F,Q154946,way
+Julianastraat,wikidata,F,Q154946,way
 Julianaweg,wikidata,F,Q154946,way
 Koninginnelaan,wikidata,F,Q150747,way
 "Louise Henriettestraat",wikidata,F,Q196301,way
+"M. Wibautstraat",wikidata,F,Q2149947,way
 "Madame Curiestraat",wikidata,F,Q7186,way
 "Maria Dermoutlaan",wikidata,F,Q2880471,way
 "Natalie Barneykade",wikidata,F,Q34782,way
+"Prinses Margrietstraat",wikidata,F,Q268821,way
 Prinsesseweg,wikidata,F,Q154946,way
+"R. Vosstraat",wikidata,F,Q2417514,way
+"T.W.S. Mansholtstraat",wikidata,F,Q2176126,way
+"Ten Oeverlaan",wikidata,F,Q20031766,way
 "Top Naefflaan",wikidata,F,Q5260550,way
 Vasalislaan,wikidata,F,Q242016,way
+"W. Druckerpad",wikidata,F,Q462002,way
 Wilhelminakade,wikidata,F,Q150747,way
+"A. Morostraat",wikidata,M,Q171834,way
+"A.J. Lutulistraat",wikidata,M,Q212955,way
 "Aart van der Leeuwlaan",wikidata,M,Q524770,way
 "Abel Tasmanplein",wikidata,M,Q42188,way
 "Abel Tasmanstraat",wikidata,M,Q42188,way
@@ -33,29 +56,48 @@ Achterberglaan,wikidata,M,Q592299,way
 "Admiraal de Ruyterlaan",wikidata,M,Q316945,way
 "Adriaan van Ostadestraat",wikidata,M,Q352438,way
 "Albert Hahnlaan",wikidata,M,Q2738705,way
+Anselmusstraat,wikidata,M,Q43939,way
 "Antoon Coolenlaan",wikidata,M,Q608851,way
 "Appie Groenlaan",wikidata,M,Q5273018,way
+Arminiusstraat,wikidata,M,Q313070,way
+Augustinusstraat,wikidata,M,Q8018,way
 Bakemastraat,wikidata,M,Q519135,way
+Barthstraat,wikidata,M,Q107473,way
 Beethovenlaan,wikidata,M,Q255,way
 Belcamposingel,wikidata,M,Q2894270,way
+"Ben Walrechtstraat",wikidata,M,Q2661072,way
 Berlageweg,wikidata,M,Q318816,way
+Bernardusstraat,wikidata,M,Q188411,way
+Bernhardlaan,wikidata,M,Q57304,way
 Bijvoetstraat,wikidata,M,Q822308,way
 Bilderdijklaan,wikidata,M,Q1375186,way
+Blauwborgje,wikidata,M,Q188293,way
 Boekenlaan,wikidata,M,Q52156705,way
 Boerhaavelaan,wikidata,M,Q313093,way
+Bonhoefferstraat,wikidata,M,Q76326,way
 Bordewijklaan,wikidata,M,Q1382474,way
 Brederostraat,wikidata,M,Q560740,way
 Breitnerstraat,wikidata,M,Q289441,way
+"Burg. G. van Barneveldstraat",wikidata,M,Q20859363,way
+"Burg. S. Gockingastraat",wikidata,M,Q20859927,way
 Buysstraat,wikidata,M,Q1959996,way
+"C. Jetsesstraat",wikidata,M,Q2049192,way
+Calvijnstraat,wikidata,M,Q37577,way
 Camphuysenstraat,wikidata,M,Q1932984,way
 Chopinlaan,wikidata,M,Q1268,way
+Clausstraat,wikidata,M,Q159609,way
 Colijnlaan,wikidata,M,Q686476,way
 "Cort van der Lindenlaan",wikidata,M,Q1397415,way
 Couperusstraat,wikidata,M,Q437798,way
 Crouwelstraat,wikidata,M,Q555389,way
 Cuypersweg,wikidata,M,Q540431,way
+"D. Smidstraat",wikidata,M,Q18655153,way
+"D.D. Eisenhowerstraat",wikidata,M,Q9916,way
+"D.H.A.C. Hammarskjöldstraat",wikidata,M,Q1267,way
 "Da Costastraat",wikidata,M,Q1673766,way
+"Daniël Ruynemanlaan",wikidata,M,Q2387865,way
 "De Bazelstraat",wikidata,M,Q1729180,way
+"De Cockstraat",wikidata,M,Q380932,way
 "De Genestetstraat",wikidata,M,Q2356743,way
 "De Klerkstraat",wikidata,M,Q920277,way
 "De Mérodelaan",wikidata,M,Q717388,way
@@ -71,14 +113,21 @@ Donderslaan,wikidata,M,Q1347862,way
 "Dr. D. Bosstraat",wikidata,M,Q2584154,way
 "Du Perronlaan",wikidata,M,Q1284250,way
 Dudoklaan,wikidata,M,Q560756,way
+Eckhartstraat,wikidata,M,Q76548,way
+"Egbert Reitsmalaan",wikidata,M,Q2420591,way
 Einthovenlaan,wikidata,M,Q189488,way
 "Ekke Kleimastraat",wikidata,M,Q1922787,way
 Elsschotlaan,wikidata,M,Q554105,way
 "Ernst Casimirlaan",wikidata,M,Q71444,way
+"F. Leggerstraat",wikidata,M,Q106625121,way
 "F.C. de Hossonstraat",wikidata,M,Q18397099,way
+"F.D. Rooseveltstraat",wikidata,M,Q8007,way
 "Felix Timmermanslaan",wikidata,M,Q713284,way
 Flemingstraat,wikidata,M,Q37064,way
 "Frans van Mierisstraat",wikidata,M,Q959236,way
+"G. Pirestraat",wikidata,M,Q158850,way
+"G. Sterringastraat",wikidata,M,Q106625000,way
+"G.C. Marshallstraat",wikidata,M,Q151414,way
 "G.J. Boekhovenstraat",wikidata,M,Q2007801,way
 Galenuslaan,wikidata,M,Q8778,way
 "Geert Teispad",wikidata,M,Q2368212,way
@@ -89,12 +138,16 @@ Galenuslaan,wikidata,M,Q8778,way
 "Gerard ter Borghstraat",wikidata,M,Q346808,way
 Gezellelaan,wikidata,M,Q336977,way
 "Goeman Borgesiuslaan",wikidata,M,Q2442740,way
+Gomarusstraat,wikidata,M,Q931871,way
 Gorterlaan,wikidata,M,Q325191,way
 "Graaf Adolfstraat",wikidata,M,Q329117,way
 "Granpré Molièreweg",wikidata,M,Q1898593,way
+Gregoriusstraat,wikidata,M,Q191734,way
 Greinerstraat,wikidata,M,Q2742817,way
 "Groen van Prinstererlaan",wikidata,M,Q954945,way
 "H.N. Werkmanbrug",wikidata,M,Q559440,way
+"H.N. Werkmanstraat",wikidata,M,Q559440,way
+"H.S. Trumanstraat",wikidata,M,Q11613,way
 "H.W. Mesdagplein",wikidata,M,Q474238,way
 "H.W. Mesdagstraat",wikidata,M,Q474238,way
 "Han Diekmannkade",wikidata,M,Q2045571,way
@@ -102,7 +155,9 @@ Händellaan,wikidata,M,Q7302,way
 "Hans Lodeizenstraat",wikidata,M,Q1928620,way
 "Hans Tetznerlaan",wikidata,M,Q760794,way
 Haydnlaan,wikidata,M,Q7349,way
+"Hein Leemhuisstraat",wikidata,M,Q55802705,way
 "Hendrik Johan Melgersstraat",wikidata,M,Q26977573,way
+"Hendrik Lofversstraat",wikidata,M,Q2509554,way
 "Hendrik de Vriesstraat",wikidata,M,Q1823314,way
 "Henk Plenterlaan",wikidata,M,Q2464656,way
 "Henri Dunantlaan",wikidata,M,Q12091,way
@@ -110,13 +165,20 @@ Haydnlaan,wikidata,M,Q7349,way
 Hippocrateslaan,wikidata,M,Q5264,way
 Hoorniklaan,wikidata,M,Q2488509,way
 "Hora Siccamasingel",wikidata,M,Q3173248,way
+Huygensstraat,wikidata,M,Q39599,way
+"J. Wagenaarstraat",wikidata,M,Q2360034,way
+"J.F. Kennedystraat",wikidata,M,Q9696,way
+"J.H. Diemerstraat",wikidata,M,Q6215949,way
 "J.H. Egenbergerstraat",wikidata,M,Q942302,way
+"J.M. den Uylstraat",wikidata,M,Q318320,way
 "Jacob Schorerstraat",wikidata,M,Q2186401,way
 "Jacob van Hattumstraat",wikidata,M,Q2227171,way
 "Jacob van Ruysdaelstraat",wikidata,M,Q213612,way
 "Jacques Perkstraat",wikidata,M,Q1622474,way
 "Jakob Israël de Haanstraat",wikidata,M,Q733640,way
 "James Baldwinstraat",wikidata,M,Q273210,way
+"Jan Bulthuisstraat",wikidata,M,Q2172902,way
+"Jan Ensinglaan",wikidata,M,Q2588891,way
 "Jan Lutmastraat",wikidata,M,Q2778143,way
 "Jan Steenstraat",wikidata,M,Q205863,way
 "Jan Wiegersweg",wikidata,M,Q2675322,way
@@ -126,11 +188,18 @@ Hoorniklaan,wikidata,M,Q2488509,way
 "Jan van der Zeestraat",wikidata,M,Q2279047,way
 Jennerstraat,wikidata,M,Q40852,way
 "Job Hansenstraat",wikidata,M,Q2709236,way
+"Johan Dijkstralaan",wikidata,M,Q2349218,way
 "Johan Ellenbergerstraat",wikidata,M,Q106010605,way
 "Johan Willem Frisostraat",wikidata,M,Q352981,way
+"Johan van Zwedenlaan",wikidata,M,Q4368579,way
+"Johann Faberlaan",wikidata,M,Q2480480,way
 "Johannes Vermeerstraat",wikidata,M,Q41264,way
+Jordensstraat,wikidata,M,Q2574715,way
 "Jozef Israëlsplein",wikidata,M,Q528460,way
 "Jozef Israëlsstraat",wikidata,M,Q528460,way
+"K. Adenauerstraat",wikidata,M,Q2492,way
+"K. de Vriezestraat",wikidata,M,Q2336736,way
+"Kamerlingh Onnesstraat",wikidata,M,Q62891,way
 "Klaas Buistlaan",wikidata,M,Q1923451,way
 "Klaas Schipperlaan",wikidata,M,Q1113402,way
 "Klaas de Witpad",wikidata,M,Q106467207,way
@@ -139,19 +208,35 @@ Kochstraat,wikidata,M,Q37193,way
 Kortenaerstraat,wikidata,M,Q2912127,way
 Kramerstraat,wikidata,M,Q13136143,way
 Kromhoutstraat,wikidata,M,Q3153936,way
+"L.B. Pearsonstraat",wikidata,M,Q128604,way
+"L.M. van Noppenstraat",wikidata,M,Q106625026,way
 Landsteinerlaan,wikidata,M,Q84405,way
+"Leonard Springerlaan",wikidata,M,Q1818939,way
 Leopoldlaan,wikidata,M,Q1137731,way
+Lodewijkstraat,wikidata,M,Q700300,way
+Lorentzstraat,wikidata,M,Q41688,way
 Lucebertpad,wikidata,M,Q689279,way
+Lutherstraat,wikidata,M,Q9554,way
 Luykenstraat,wikidata,M,Q87466,way
+"M.K. Gandhiplein",wikidata,M,Q1001,way
+"M.L. Kingstraat",wikidata,M,Q8027,way
 Maaskantlaan,wikidata,M,Q5931585,way
+Magnusstraat,wikidata,M,Q60059,way
 "Marcellus Emantslaan",wikidata,M,Q2063379,way
+Maresiusstraat,wikidata,M,Q1525677,way
 Marsmanlaan,wikidata,M,Q1358259,way
+Mauritsdwarsstraat,wikidata,M,Q164062,way
+Mauritsstraat,wikidata,M,Q164062,way
 "Meindert Hobbemastraat",wikidata,M,Q336908,way
 Merkelbachstraat,wikidata,M,Q15126783,way
 Moddermanlaan,wikidata,M,Q2440498,way
+Möllerstraat,wikidata,M,Q2469919,way
 Mondriaanstraat,wikidata,M,Q151803,way
+"Mulock Houwerlaan",wikidata,M,Q2803260,way
 Multatulistraat,wikidata,M,Q154211,way
+Muntinglaan,wikidata,M,Q3026776,way
 Nesciopad,wikidata,M,Q2559747,way
+"Nico Bulderstraat",wikidata,M,Q3410199,way
 "Nico Rostlaan",wikidata,M,Q1986010,way
 "Nicolaas Beetsstraat",wikidata,M,Q537100,way
 "Niek Engelschmanstraat",wikidata,M,Q2170705,way
@@ -161,45 +246,62 @@ Nolenslaan,wikidata,M,Q944997,way
 "Otto Bonsemalaan",wikidata,M,Q2425051,way
 "Otto Eerelmanstraat",wikidata,M,Q504222,way
 "P.C. Hooftlaan",wikidata,M,Q10914484,way
+"P.J. Noël Bakerstraat",wikidata,M,Q211856,way
 Paracelsusstraat,wikidata,M,Q83428,way
 Pasteurlaan,wikidata,M,Q529,way
 "Paulus Potterstraat",wikidata,M,Q355406,way
 "Piet Heinstraat",wikidata,M,Q560774,way
+Polmanstraat,wikidata,M,Q2759891,way
 Potgieterstraat,wikidata,M,Q2718465,way
 Praediniussingel,wikidata,M,Q10358845,way
 "Professor Uilkensweg",wikidata,M,Q2703413,way
 Queridolaan,wikidata,M,Q1167894,way
+"R. Doumastraat",wikidata,M,Q106625081,way
+"R. Schumanstraat",wikidata,M,Q15981,way
+Reddingiusweg,wikidata,M,Q20859171,way
 "Rembrandt van Rijnstraat",wikidata,M,Q5598,way
 Rengersstraat,wikidata,M,Q2608945,way
 Reviusstraat,wikidata,M,Q358629,way
+"Riekele Prinsstraat",wikidata,M,Q13137615,way
 Rietveldlaan,wikidata,M,Q160435,way
+Romerostraat,wikidata,M,Q293455,way
 Rubensstraat,wikidata,M,Q5599,way
+"S. Allendeplein",wikidata,M,Q440,way
+"S.O.J. Palmelaan",wikidata,M,Q53713,way
 Schaepmanlaan,wikidata,M,Q4526118,way
 Schaperstraat,wikidata,M,Q2560153,way
 Schelfhoutstraat,wikidata,M,Q500379,way
 Schubertlaan,wikidata,M,Q7312,way
+Schweitzerlaan,wikidata,M,Q49325,way
 Semmelweisstraat,wikidata,M,Q59736,way
 "Siebold Sissinghlaan",wikidata,M,Q15881925,way
+Simonsstraat,wikidata,M,Q335171,way
 "Sint Lucasstraat",wikidata,M,Q128538,way
 Slauerhofflaan,wikidata,M,Q561650,way
+Snelliusstraat,wikidata,M,Q244152,way
 Spieghelstraat,wikidata,M,Q262254,way
 Stamstraat,wikidata,M,Q708333,way
 Staringstraat,wikidata,M,Q2359791,way
 Strausslaan,wikidata,M,Q13894,way
 Streuvelslaan,wikidata,M,Q175669,way
 Sweelincklaan,wikidata,M,Q110294,way
+Sylviuslaan,wikidata,M,Q316996,way
 "Taco Mesdagplein",wikidata,M,Q2452500,way
 "Taco Mesdagstraat",wikidata,M,Q2452500,way
 "Ter Braaklaan",wikidata,M,Q1375341,way
 "Theodorus Niemeyerstraat",wikidata,M,Q2347992,way
 Thorbeckelaan,wikidata,M,Q182509,way
+Tillichstraat,wikidata,M,Q60104,way
+Tjardaweg,wikidata,M,Q968297,way
 "Tonny van Leeuwenlaan",wikidata,M,Q2021265,way
 Troelstralaan,wikidata,M,Q494665,way
 "Ubbo Emmiussingel",wikidata,M,Q399131,way
 "Ubbo Emmiusstraat",wikidata,M,Q399131,way
+"Van Aquinopad",wikidata,M,Q9438,way
 "Van Brakelplein",wikidata,M,Q1921960,way
 "Van Deyssellaan",wikidata,M,Q2080152,way
 "Van Doesburgstraat",wikidata,M,Q160422,way
+"Van Drielstlaan",wikidata,M,Q1957104,way
 "Van Eedenstraat",wikidata,M,Q211514,way
 "Van Eesterenlaan",wikidata,M,Q940647,way
 "Van Eyckstraat",wikidata,M,Q444571,way
@@ -209,6 +311,7 @@ Troelstralaan,wikidata,M,Q494665,way
 "Van Iddekingeweg",wikidata,M,Q2202286,way
 "Van Imhoffstraat",wikidata,M,Q2474826,way
 "Van Ketwich Verschuurlaan",wikidata,M,Q2528615,way
+"Van Leeuwenhoekstraat",wikidata,M,Q43522,way
 "Van Lenneplaan",wikidata,M,Q675676,way
 "Van Loghemstraat",wikidata,M,Q2865152,way
 "Van Moerkerkenlaan",wikidata,M,Q2805406,way
@@ -218,6 +321,8 @@ Troelstralaan,wikidata,M,Q494665,way
 "Van Schendelstraat",wikidata,M,Q202355,way
 "Van Speykstraat",wikidata,M,Q1649385,way
 "Van Starkenborghstraat",wikidata,M,Q457517,way
+"Van Swietenlaan",wikidata,M,Q711132,way
+"Van Swietenplein",wikidata,M,Q711132,way
 "Van Tijenstraat",wikidata,M,Q4771266,way
 "Van Wassenaerstraat",wikidata,M,Q1386569,way
 "Van de Woestijnelaan",wikidata,M,Q1813000,way
@@ -225,18 +330,28 @@ Troelstralaan,wikidata,M,Q494665,way
 "Van der Doesstraat",wikidata,M,Q1822450,way
 "Van der Hoopstraat",wikidata,M,Q6216747,way
 "Van der Vlugtstraat",wikidata,M,Q1812135,way
+"Van der Waalsstraat",wikidata,M,Q131721,way
+"Verlengde Lodewijkstraat",wikidata,M,Q700300,way
 Verweystraat,wikidata,M,Q586323,way
 Vestdijklaan,wikidata,M,Q437782,way
 Virulystraat,wikidata,M,Q2804372,way
+Voetiusstraat,wikidata,M,Q983347,way
 Vondellaan,wikidata,M,Q312673,way
+"W. Dreesstraat",wikidata,M,Q12769,way
+"W.L.S. Churchillstraat",wikidata,M,Q8016,way
 Walfriduspad,wikidata,M,Q2224178,way
 Wassenberghstraat,wikidata,M,Q2113054,way
 Wenckebachlaan,wikidata,M,Q548782,way
 "Werumeus Buningstraat",wikidata,M,Q1963717,way
 Wijdeveldstraat,wikidata,M,Q1925023,way
 "Willem Frederik Hermanslaan",wikidata,M,Q437771,way
+"Willem Valkstraat",wikidata,M,Q2071403,way
+"Willem de Zwijgerstraat",wikidata,M,Q78454,way
+Willem-Alexanderstraat,wikidata,M,Q154952,way
 Wilsstraat,wikidata,M,Q1394697,way
 "Witte de Withstraat",wikidata,M,Q695748,way
 "Wobbe Hendrik Alkemastraat",wikidata,M,Q1830298,way
 Zernikelaan,wikidata,M,Q188293,way
+Zernikepark,wikidata,M,Q188293,way
 Zernikeplein,wikidata,M,Q188293,way
+Zwinglistraat,wikidata,M,Q123034,way
